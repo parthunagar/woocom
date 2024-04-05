@@ -1,0 +1,58 @@
+generate SHA Key
+keytool -list -v -keystore "C:\Users\VPN Developer\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+ 0D:41:E5:31:05:11:98:FC:F2:FF:53:40:CA:E6:CD:6A:79:AF:C9:8F
+
+ generate key hases
+first way
+ keytool -exportcert -alias androiddebugkey -keystore "C:\Users\VPN Developer\.android\debug.keystore" | "C:\openssl\bin\openssl" sha1 -binary | "C:\openssl\bin\openssl" base64
+Enter keystore password:  android
+dKcBXFKm95kQgDF0ocZafKH4iGo=
+
+ another way
+ keytool -exportcert -alias androiddebugkey -keystore C:\Users\VPN Developer\.android\debug.keystore | C:\openssl\bin\openssl sha1 -binary | C:\openssl\bin\openssl base64
+ DUHIMQURmPzy/1NAyubNanmvyY8=
+ /http://tomeko.net/online_tools/hex_to_base64.php // generate and decode SHA1 to has key
+
+
+Login with google
+ client id
+1050917523199-arc3ak2gh8q6om4ibv5p6omt3skkpmo1.apps.googleusercontent.com
+
+
+ google API key
+ AIzaSyALaPHpCtdBY2dABLUxjUjZgCb5FkQPzgE
+
+flutter-cubit-tutorial [github -demo]
+https://github.com/heyletscode/flutter-cubit-tutorial/blob/main/todo_app/lib/data/network_service.dart
+video link : https://www.youtube.com/watch?v=3iaDZqFFfnQ
+
+FireBase crashlytics [see video and implement]
+https://www.youtube.com/watch?v=DFcr0k2nrP4
+https://firebase.flutter.dev/docs/crashlytics/overview/
+
+
+firebase Push Notification
+https://www.youtube.com/watch?v=pVUIU_nq8MU
+https://github.com/karankharode/Flutter-2.0-Firebase-Push-Notifications/blob/master/lib/main.dart
+
+add firabse project
+project name : woocom
+email : parthunagar9@gmail.com
+
+add prpoject in bitbucket
+email : parthunagar9@mail.com
+repository : woocom
+branch name : woocom_design_git // only design
+
+
+download icon 
+https://freebiescloud.com/
+
+
+figma file for UI reference 
+https://www.figma.com/file/UtXAy8UnM8w4ZuGq4iCRrO/NeoMart---Online-Shopping-App-UI-Kit-(Community)?node-id=1%3A161&t=6NQ3wELwI03l0zjM-0
+
+
+
+
+
