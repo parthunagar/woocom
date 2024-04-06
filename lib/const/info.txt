@@ -52,7 +52,4 @@ https://freebiescloud.com/
 figma file for UI reference 
 https://www.figma.com/file/UtXAy8UnM8w4ZuGq4iCRrO/NeoMart---Online-Shopping-App-UI-Kit-(Community)?node-id=1%3A161&t=6NQ3wELwI03l0zjM-0
 
-
-
-
-
+flutter verion : 3.16.9
