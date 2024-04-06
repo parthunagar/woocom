@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shimmer_animation/shimmer_animation.dart';
-import 'package:woocom/theme/colors.dart';
+import 'package:woocom_3_16_9/theme/colors.dart';
 
 class ShimmerNotificationList extends StatefulWidget {
   @override

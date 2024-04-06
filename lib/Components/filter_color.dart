@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:woocom/theme/colors.dart';
-import 'package:woocom/const/constant.dart';
+import 'package:woocom_3_16_9/theme/colors.dart';
+import 'package:woocom_3_16_9/const/constant.dart';
 
 class FilterColorView extends StatefulWidget {
   const FilterColorView({Key? key}) : super(key: key);

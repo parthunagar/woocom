@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:woocom/Locale/locales.dart';
-import 'package:woocom/const/fontFamily_list.dart';
-import 'package:woocom/theme/colors.dart';
+import 'package:woocom_3_16_9/Locale/locales.dart';
+import 'package:woocom_3_16_9/const/fontFamily_list.dart';
+import 'package:woocom_3_16_9/theme/colors.dart';
 
 class CustomButton extends StatefulWidget {
   final String? label;

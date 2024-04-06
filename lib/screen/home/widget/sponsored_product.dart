@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
-import 'package:woocom/Components/custom_rating_bar.dart';
-import 'package:woocom/screen/home/widget/build_row_widget.dart';
-import 'package:woocom/theme/colors.dart';
-import 'package:woocom/utils/app_icon_utils.dart';
+import 'package:woocom_3_16_9/Components/custom_rating_bar.dart';
+import 'package:woocom_3_16_9/screen/home/widget/build_row_widget.dart';
+import 'package:woocom_3_16_9/theme/colors.dart';
+import 'package:woocom_3_16_9/utils/app_icon_utils.dart';
 
 class SponsoredProductView extends StatefulWidget {
   @override

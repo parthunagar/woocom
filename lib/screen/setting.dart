@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:share_plus/share_plus.dart';
-import 'package:woocom/Routes/routes.dart';
-import 'package:woocom/const/constant.dart';
-import 'package:woocom/const/fontFamily_list.dart';
-import 'package:woocom/utils/app_icon_utils.dart';
-import 'package:woocom/preference/sharedPref.dart';
-import 'package:woocom/theme/colors.dart';
+import 'package:woocom_3_16_9/Routes/routes.dart';
+import 'package:woocom_3_16_9/const/constant.dart';
+import 'package:woocom_3_16_9/const/fontFamily_list.dart';
+import 'package:woocom_3_16_9/utils/app_icon_utils.dart';
+import 'package:woocom_3_16_9/preference/sharedPref.dart';
+import 'package:woocom_3_16_9/theme/colors.dart';
 import 'dart:core';
 
 class SettingScreen extends StatefulWidget {

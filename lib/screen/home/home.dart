@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:woocom/screen/home/widget/auto_scroll_view.dart';
-import 'package:woocom/screen/home/widget/category_view_horizontal.dart';
-import 'package:woocom/screen/home/widget/sponsored_product.dart';
-import 'package:woocom/screen/home/widget/surprised_for_friend.dart';
-import 'package:woocom/screen/home/widget/kit_for_you_widget.dart';
-import 'package:woocom/screen/home/widget/popular_product_widget.dart';
-import 'package:woocom/screen/home/widget/search_widget.dart';
-import 'package:woocom/screen/home/widget/you_view_recently.dart';
+import 'package:woocom_3_16_9/screen/home/widget/auto_scroll_view.dart';
+import 'package:woocom_3_16_9/screen/home/widget/category_view_horizontal.dart';
+import 'package:woocom_3_16_9/screen/home/widget/sponsored_product.dart';
+import 'package:woocom_3_16_9/screen/home/widget/surprised_for_friend.dart';
+import 'package:woocom_3_16_9/screen/home/widget/kit_for_you_widget.dart';
+import 'package:woocom_3_16_9/screen/home/widget/popular_product_widget.dart';
+import 'package:woocom_3_16_9/screen/home/widget/search_widget.dart';
+import 'package:woocom_3_16_9/screen/home/widget/you_view_recently.dart';
 
 class HomeScreen extends StatefulWidget {
   @override

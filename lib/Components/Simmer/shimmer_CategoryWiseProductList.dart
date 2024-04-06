@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 // import 'package:rating_bar/rating_bar.dart';
 import 'package:shimmer_animation/shimmer_animation.dart';
-import 'package:woocom/Components/custom_rating_bar.dart';
-import 'package:woocom/utils/app_icon_utils.dart';
-import 'package:woocom/theme/colors.dart';
+import 'package:woocom_3_16_9/Components/custom_rating_bar.dart';
+import 'package:woocom_3_16_9/utils/app_icon_utils.dart';
+import 'package:woocom_3_16_9/theme/colors.dart';
 
 class ShimmerCategoryWiseProductList extends StatefulWidget {
   // const ShimmerCategoryWiseProductList({Key key}) : super(key: key);

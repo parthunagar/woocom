@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:woocom/theme/colors.dart';
+import 'package:woocom_3_16_9/theme/colors.dart';
 import 'dart:ui';
 
 Color disabledColor = Color(0xff747474);

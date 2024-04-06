@@ -2,12 +2,12 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 // import 'package:rating_bar/rating_bar.dart';
-import 'package:woocom/Components/appbar.dart';
-import 'package:woocom/Components/custom_rating_bar.dart';
-import 'package:woocom/Routes/routes.dart';
-import 'package:woocom/const/fontFamily_list.dart';
-import 'package:woocom/utils/app_icon_utils.dart';
-import 'package:woocom/theme/colors.dart';
+import 'package:woocom_3_16_9/Components/appbar.dart';
+import 'package:woocom_3_16_9/Components/custom_rating_bar.dart';
+import 'package:woocom_3_16_9/Routes/routes.dart';
+import 'package:woocom_3_16_9/const/fontFamily_list.dart';
+import 'package:woocom_3_16_9/utils/app_icon_utils.dart';
+import 'package:woocom_3_16_9/theme/colors.dart';
 
 class SearchProductListScreen extends StatefulWidget {
   final String? searchKeyword;

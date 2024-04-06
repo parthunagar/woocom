@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
-import 'package:woocom/screen/home/widget/build_row_widget.dart';
-import 'package:woocom/utils/app_icon_utils.dart';
+import 'package:woocom_3_16_9/screen/home/widget/build_row_widget.dart';
+import 'package:woocom_3_16_9/utils/app_icon_utils.dart';
 import 'package:vector_math/vector_math_64.dart' as v;
 
 class SurprisedForFriendView extends StatefulWidget {

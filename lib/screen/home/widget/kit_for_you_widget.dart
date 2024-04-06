@@ -1,7 +1,7 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:woocom/screen/home/widget/build_row_widget.dart';
-import 'package:woocom/const/constant.dart';
+import 'package:woocom_3_16_9/screen/home/widget/build_row_widget.dart';
+import 'package:woocom_3_16_9/const/constant.dart';
 
 class KitForYouWidget extends StatefulWidget {
   // const KitForYouWidget({super.key});

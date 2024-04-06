@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:woocom/Routes/routes.dart';
-import 'package:woocom/screen/Auth/signin.dart';
-import 'package:woocom/theme/style.dart';
+import 'package:woocom_3_16_9/Routes/routes.dart';
+
+import 'package:woocom_3_16_9/screen/Auth/signin.dart';
+import 'package:woocom_3_16_9/theme/style.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();

@@ -1,16 +1,16 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:woocom/Components/appbar.dart';
-import 'package:woocom/Components/commonwidget.dart';
-import 'package:woocom/Components/emtryfield.dart';
-import 'package:woocom/Validator/validator.dart';
-import 'package:woocom/const/constant.dart';
-import 'package:woocom/const/fontFamily_list.dart';
-import 'package:woocom/utils/app_icon_utils.dart';
-import 'package:woocom/theme/colors.dart';
+import 'package:woocom_3_16_9/Components/appbar.dart';
+import 'package:woocom_3_16_9/Components/commonwidget.dart';
+import 'package:woocom_3_16_9/Components/emtryfield.dart';
+import 'package:woocom_3_16_9/Validator/validator.dart';
+import 'package:woocom_3_16_9/const/constant.dart';
+import 'package:woocom_3_16_9/const/fontFamily_list.dart';
+import 'package:woocom_3_16_9/utils/app_icon_utils.dart';
+import 'package:woocom_3_16_9/theme/colors.dart';
 import 'dart:async';
-import 'package:woocom/utils/toast_utils.dart';
+import 'package:woocom_3_16_9/utils/toast_utils.dart';
 
 class EditProfileScreen extends StatefulWidget {
   // const SettingScreen({Key key}) : super(key: key);

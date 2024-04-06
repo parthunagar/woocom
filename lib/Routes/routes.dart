@@ -1,23 +1,25 @@
 import 'package:flutter/material.dart';
-import 'package:woocom/screen/Setting/about_us.dart';
-import 'package:woocom/screen/Setting/edit_profile.dart';
-import 'package:woocom/screen/Setting/language.dart';
-import 'package:woocom/screen/Setting/order_list.dart';
-import 'package:woocom/screen/Setting/wishlist.dart';
-import 'package:woocom/screen/cart.dart';
-import 'package:woocom/screen/cartScreen.dart';
-import 'package:woocom/screen/categorywise_list.dart';
-import 'package:woocom/screen/checkout_address.dart';
-import 'package:woocom/screen/checkout_payment.dart';
-import 'package:woocom/screen/checkout_shipping.dart';
-import 'package:woocom/screen/dashBoard.dart';
-import 'package:woocom/screen/home/home.dart';
-import 'package:woocom/screen/notification_list.dart';
-import 'package:woocom/screen/order_placed.dart';
-import 'package:woocom/screen/product_details.dart';
-import 'package:woocom/screen/searchScreen.dart';
-import 'package:woocom/screen/setting.dart';
-import 'package:woocom/screen/store.dart';
+import 'package:woocom_3_16_9/screen/Setting/about_us.dart';
+import 'package:woocom_3_16_9/screen/Setting/edit_profile.dart';
+import 'package:woocom_3_16_9/screen/Setting/language.dart';
+import 'package:woocom_3_16_9/screen/Setting/order_list.dart';
+import 'package:woocom_3_16_9/screen/Setting/wishlist.dart';
+import 'package:woocom_3_16_9/screen/cart.dart';
+import 'package:woocom_3_16_9/screen/cartScreen.dart';
+import 'package:woocom_3_16_9/screen/categorywise_list.dart';
+import 'package:woocom_3_16_9/screen/checkout_address.dart';
+import 'package:woocom_3_16_9/screen/checkout_payment.dart';
+import 'package:woocom_3_16_9/screen/checkout_shipping.dart';
+import 'package:woocom_3_16_9/screen/dashBoard.dart';
+import 'package:woocom_3_16_9/screen/home/home.dart';
+import 'package:woocom_3_16_9/screen/notification_list.dart';
+import 'package:woocom_3_16_9/screen/order_placed.dart';
+import 'package:woocom_3_16_9/screen/product_details.dart';
+import 'package:woocom_3_16_9/screen/Setting/wishlist.dart';
+import 'package:woocom_3_16_9/screen/searchScreen.dart';
+import 'package:woocom_3_16_9/screen/setting.dart';
+import 'package:woocom_3_16_9/screen/store.dart';
+import 'package:woocom_3_16_9/screen/dashBoard.dart';
 
 class PageRoutes {
 

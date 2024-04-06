@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string name="app_name">WooCoom</string>
-    <string name="facebook_app_id">328997378893640</string>
-    <string name="fb_login_protocol_scheme">fb328997378893640</string>
-
-</resources>

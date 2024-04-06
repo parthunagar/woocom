@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:woocom/Components/custom_rating_bar.dart';
-import 'package:woocom/const/fontFamily_list.dart';
-import 'package:woocom/utils/app_icon_utils.dart';
-import 'package:woocom/theme/colors.dart';
+import 'package:woocom_3_16_9/Components/custom_rating_bar.dart';
+import 'package:woocom_3_16_9/const/fontFamily_list.dart';
+import 'package:woocom_3_16_9/utils/app_icon_utils.dart';
+import 'package:woocom_3_16_9/theme/colors.dart';
 
 class ProductCard extends StatelessWidget {
   void Function()? onTap, onTapFavourite;

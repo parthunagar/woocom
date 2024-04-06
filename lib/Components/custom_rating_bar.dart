@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
-import 'package:woocom/theme/colors.dart';
+import 'package:woocom_3_16_9/theme/colors.dart';
 
 class CustomRatingBar extends StatelessWidget {
   double initialRating;
